@@ -1,0 +1,7 @@
+numpy 
+pandas 
+Counter
+nltk
+keyboard
+streamlit
+collections
